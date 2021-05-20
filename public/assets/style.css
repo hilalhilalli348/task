@@ -1,0 +1,14 @@
+
+.full_w
+{
+    position: relative;
+    float: left;
+    width: 100%;
+
+}
+
+header
+{
+    height: 90px;
+    border: 1px solid black;
+}
